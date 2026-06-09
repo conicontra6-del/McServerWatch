@@ -26,4 +26,4 @@ This project was designed, coded, and structured entirely by a **young and indep
 
 The main goal here is to provide the Minecraft community with a **100% transparent, safe, and clean tool**—giving users full control over what runs on their machines.
 
-If you appreciate my work and want to support my programming journey, feel free to drop a ⭐ **Star** on this repository!
+If you appreciate my work and want to support my programming journey, feel free to drop a ⭐ **Star** on this repository!.
